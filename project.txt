@@ -1,3 +1,2 @@
 Hi, we are Rishitt & Akshit, doing Devops Assessment
-Feature by user1: Added new content.
-Feature by user2: Added another update.
+Feature by User1: Adding Content 
